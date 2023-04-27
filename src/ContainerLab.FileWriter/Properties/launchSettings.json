@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ContainerLab.FileWriter": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
